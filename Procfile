@@ -1,1 +1,1 @@
-wed: gunicorn quotes.wsgi
+web: gunicorn quotes.wsgi
